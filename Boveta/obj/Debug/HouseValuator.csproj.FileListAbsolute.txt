@@ -1,0 +1,9 @@
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\HouseValuator.dll.config
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\HouseValuator.dll
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\HouseValuator.pdb
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\obj\Debug\HouseValuator.csprojResolveAssemblyReference.cache
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\obj\Debug\HouseValuator.dll
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\obj\Debug\HouseValuator.pdb
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\MySql.Data.Entity.EF5.dll
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\MySql.Data.Entity.EF6.dll
+c:\users\s.hall\documents\visual studio 2013\Projects\HouseValuator\HouseValuator\bin\MySql.Fabric.Plugin.dll

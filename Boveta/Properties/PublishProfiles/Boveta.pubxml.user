@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.boveta.com/boveta.com/public_html</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="android-icon-144x144.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="android-icon-192x192.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="android-icon-36x36.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="android-icon-48x48.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="android-icon-72x72.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="android-icon-96x96.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-114x114.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-120x120.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-144x144.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-152x152.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-180x180.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-57x57.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-60x60.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-72x72.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-76x76.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon-precomposed.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="apple-icon.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.Analytics.dll">
+      <publishTime>06/20/2015 18:15:42</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.Analytics.pdb">
+      <publishTime>06/20/2015 18:15:42</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.Database.dll">
+      <publishTime>06/20/2015 18:15:40</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.Database.pdb">
+      <publishTime>06/20/2015 18:15:40</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.dll">
+      <publishTime>06/20/2015 18:15:39</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.HouseObjects.dll">
+      <publishTime>05/14/2015 12:35:11</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.HouseObjects.pdb">
+      <publishTime>05/14/2015 12:35:11</publishTime>
+    </File>
+    <File Include="bin/Boveta.Backend.pdb">
+      <publishTime>06/20/2015 18:15:39</publishTime>
+    </File>
+    <File Include="bin/Boveta.dll">
+      <publishTime>06/20/2015 18:15:44</publishTime>
+    </File>
+    <File Include="bin/Boveta.dll.config">
+      <publishTime>07/30/2015 17:12:25</publishTime>
+    </File>
+    <File Include="bin/Boveta.pdb">
+      <publishTime>06/20/2015 18:15:43</publishTime>
+    </File>
+    <File Include="bin/MathNet.Numerics.dll">
+      <publishTime>05/18/2015 18:14:31</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>05/02/2015 14:04:40</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.Entity.EF5.dll">
+      <publishTime>02/17/2015 18:46:56</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.Entity.EF6.dll">
+      <publishTime>02/17/2015 18:47:12</publishTime>
+    </File>
+    <File Include="bin/MySql.Fabric.Plugin.dll">
+      <publishTime>02/17/2015 18:47:02</publishTime>
+    </File>
+    <File Include="browserconfig.xml">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/ie/html5shiv.js">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/ie/images/footer.png">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/ie/images/footer.svg">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/ie/PIE.htc">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/ie/v8.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/ie/v9.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/images/bg.jpg">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/images/overlay-pattern.png">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/images/overlay.svg">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="css/skel.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/style-mobile.css">
+      <publishTime>05/23/2015 18:55:22</publishTime>
+    </File>
+    <File Include="css/style-mobilep.css">
+      <publishTime>05/23/2015 18:55:28</publishTime>
+    </File>
+    <File Include="css/style-normal.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/style-noscript.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/style-wide.css">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>06/20/2015 17:53:50</publishTime>
+    </File>
+    <File Include="favicon-16x16.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="favicon-32x32.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="favicon-96x96.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>06/05/2015 13:39:32</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>03/03/2015 02:43:09</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>05/02/2015 14:14:15</publishTime>
+    </File>
+    <File Include="Info.aspx">
+      <publishTime>07/30/2015 13:42:37</publishTime>
+    </File>
+    <File Include="js/init.js">
+      <publishTime>05/14/2015 15:18:26</publishTime>
+    </File>
+    <File Include="js/skel.min.js">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="manifest.json">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="ms-icon-144x144.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="ms-icon-150x150.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="ms-icon-310x310.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="ms-icon-70x70.png">
+      <publishTime>05/27/2015 20:48:09</publishTime>
+    </File>
+    <File Include="sass/ie/v8.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/ie/v9.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style-mobile.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style-mobilep.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style-normal.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style-noscript.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style-wide.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/style.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/_mixins.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="sass/_vars.scss">
+      <publishTime>03/03/2015 02:43:10</publishTime>
+    </File>
+    <File Include="Search.aspx">
+      <publishTime>07/30/2015 17:11:31</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>05/02/2015 21:44:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/30/2015 18:01:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

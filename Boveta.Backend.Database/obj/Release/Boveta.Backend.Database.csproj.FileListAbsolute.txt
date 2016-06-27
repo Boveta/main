@@ -1,0 +1,10 @@
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\obj\Release\Boveta.Backend.Database.csprojResolveAssemblyReference.cache
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.Database.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.Database.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.HouseObjects.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\MySql.Data.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.HouseObjects.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\bin\Release\Boveta.Backend.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\obj\Release\Boveta.Backend.Database.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.Database\obj\Release\Boveta.Backend.Database.pdb

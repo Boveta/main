@@ -1,0 +1,8 @@
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\bin\Debug\Boveta.Test.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\bin\Debug\Boveta.Test.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\obj\Debug\Boveta.Test.csprojResolveAssemblyReference.cache
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\obj\Debug\Boveta.Test.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\obj\Debug\Boveta.Test.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\bin\Debug\Boveta.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\bin\Debug\Boveta.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Test\bin\Debug\MySql.Data.dll

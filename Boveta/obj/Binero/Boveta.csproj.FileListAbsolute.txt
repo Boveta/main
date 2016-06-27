@@ -1,0 +1,32 @@
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.dll.config
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\obj\Binero\Boveta.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\obj\Binero\Boveta.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\obj\Binero\Boveta.csprojResolveAssemblyReference.cache
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.Analytics.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.Database.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.HouseObjects.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.Analytics.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.Database.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\Boveta.Backend.HouseObjects.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\MathNet.Numerics.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta\bin\MathNet.Numerics.xml
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.dll.config
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.pdb
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.Analytics.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.Database.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.HouseObjects.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\MathNet.Numerics.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.Analytics.pdb
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.Database.pdb
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.pdb
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\Boveta.Backend.HouseObjects.pdb
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\bin\MathNet.Numerics.xml
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\obj\Binero\Boveta.csprojResolveAssemblyReference.cache
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\obj\Binero\Boveta.dll
+C:\Users\s.hall\Dropbox\Boveta\site\Boveta\Boveta\obj\Binero\Boveta.pdb

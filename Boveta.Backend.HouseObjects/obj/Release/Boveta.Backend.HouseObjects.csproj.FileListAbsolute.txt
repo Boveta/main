@@ -1,0 +1,4 @@
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.HouseObjects\bin\Release\Boveta.Backend.HouseObjects.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.HouseObjects\bin\Release\Boveta.Backend.HouseObjects.pdb
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.HouseObjects\obj\Release\Boveta.Backend.HouseObjects.dll
+C:\Users\s.hall\Documents\Visual Studio 2013\Projects\Boveta\Boveta.Backend.HouseObjects\obj\Release\Boveta.Backend.HouseObjects.pdb
