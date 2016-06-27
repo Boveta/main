@@ -219,7 +219,7 @@ namespace Boveta.Backend.Database
             if (search.Country.ToLower() == "sweden")
             {
                 // Prepare statement. Make rough sort on geographical region to speed things up
-                string stm = "SELECT * FROM booli";
+                string stm = "SELECT * FROM xxx";
 
                 // 69 Miles = 111045 ~ 120000 meter
                 // Make rough sort on latitude. One degree is almost always the same distance in meters
@@ -244,7 +244,7 @@ namespace Boveta.Backend.Database
             }
             else if (search.Country.ToLower() == "netherlands")
             {
-                string stm = "SELECT * FROM funda";
+                string stm = "SELECT * FROM xxx";
                 string latstr = search.HouseLocation.Latitude.ToString().Replace(",", ".");
                 stm += " WHERE ABS(latitude -" + latstr + ")*120000 <= " + radiusMeter;
                 // Make rough sort on longitude. Here we need to use cosine
